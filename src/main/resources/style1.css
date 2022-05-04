@@ -1,0 +1,23 @@
+.root{
+    -fx-background-color: #F6F7F7;
+}
+.button{
+    -fx-font-size: 14;
+    -fx-font-weight: bold;
+    -fx-font-family: "Roboto Light";
+    -fx-background-color: #171717;
+    -fx-background-radius: 50;
+    -fx-text-fill: #ffffff;
+    -fx-max-height: 5px;
+    -fx-max-width: 230px;
+    -fx-border-color: #171717;
+    -fx-border-width: 1px;
+    -fx-border-radius: 50;
+    -fx-cursor: hand;
+    -fx-alignment: center;
+}
+.button:hover{
+    -fx-background-color: #afafaf;
+}
+
+
